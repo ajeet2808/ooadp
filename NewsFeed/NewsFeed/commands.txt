@@ -1,0 +1,15 @@
+﻿signup~lucious
+signup~albus
+signup~tom
+login~tom
+post~I am going to be the darkest dark wizard of all time
+post~I am lord Voldemort btw 3:)
+login~lucious
+upvote~001
+reply~001~I am with youdark lord!
+post~Happiness can be found, even in the darkest of times, if one only remembers to turn on the light
+follow~tom
+downvote~001
+downvote~002
+reply~002~LOL!
+shownewsfeed
